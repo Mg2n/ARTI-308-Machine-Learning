@@ -1,1 +1,1 @@
-# ARTI-308-Machine-Learning
+predicting house prices using machine learning techniques.
