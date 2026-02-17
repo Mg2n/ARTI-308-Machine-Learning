@@ -1,1 +1,1 @@
-# ARTI-308-Machine-Learning
+I imported the chocolate sales data, did a quick verification of missing values and duplicates and then cleaned it up- extracted the date column and converted it to month and year features. Then I went into analysis, classification, finding correlation, and plotting to identify the best countries, products, sales performance, and general sales trends.
