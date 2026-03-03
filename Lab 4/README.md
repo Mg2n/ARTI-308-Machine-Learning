@@ -1,0 +1,1 @@
+The objectives of this lab were to evaluate the data quality and to use the methods of pre-processing to clean and prepare the data to be analyzed.
